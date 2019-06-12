@@ -31,3 +31,5 @@ gem install cztop
 gem install iruby --pre
 iruby register --force
 ```
+
+(Informations from [https://github.com/sciruby/iruby#homebrew])
